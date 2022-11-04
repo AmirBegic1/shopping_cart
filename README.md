@@ -1,6 +1,6 @@
 # shopping_cart
 
-A new Flutter project.
+Shopping cart app made in Flutter using getx and firebase .
 
 ## Getting Started
 
